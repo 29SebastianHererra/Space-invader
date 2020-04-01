@@ -1,0 +1,99 @@
+body{
+    background-color: black;
+}
+#MasterBox{
+    display: grid;
+  grid-template-columns: 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px ;
+  grid-template-rows: 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px;
+
+}
+.Box1{
+background-color: green;
+grid-row: 4;
+grid-column: 6/14;
+}
+.Box2{
+    background-color: green;
+    grid-row: 3;
+    grid-column: 7;
+}
+.Box3{
+    background-color: green;
+    grid-row: 2;
+    grid-column: 6;
+}
+.Box4{
+    background-color: green;
+    grid-row: 3;
+    grid-column: 12;
+}
+.Box5{
+    background-color: green;
+    grid-row: 2;
+    grid-column: 13;
+}
+.Box6{
+    background-color: green;
+    grid-row: 5;
+    grid-column: 5/7;
+}
+.Box7{
+    background-color: green;
+    grid-row: 5;
+    grid-column: 8/12;
+}
+.Box8{
+    background-color: green;
+    grid-row: 5;
+    grid-column: 13/15;
+}
+.Box9{
+    background-color: green;
+    grid-row: 6;
+    grid-column: 4/16;
+}
+.Box10{
+    background-color: green;
+    grid-row: 7;
+    grid-column: 4;
+}
+.Box11{
+    background-color: green;
+    grid-row: 7;
+    grid-column: 6/14;
+}
+.Box12{
+    background-color: green;
+    grid-row: 7;
+    grid-column: 15;
+}
+.Box13{
+    background-color: green;
+    grid-row: 8;
+    grid-column: 4;
+}
+.Box14{
+    background-color: green;
+    grid-row: 8;
+    grid-column: 6;
+}
+.Box15{
+    background-color: green;
+    grid-row: 8;
+    grid-column: 13;
+}
+.Box16{
+    background-color: green;
+    grid-row: 8;
+    grid-column: 15;
+}
+.Box17{
+    background-color: green;
+    grid-row: 9;
+    grid-column: 7/9;
+}
+.Box18{
+    background-color: green;
+    grid-row: 9;
+    grid-column: 11/13;
+}
